@@ -1,4 +1,4 @@
-# GoYoutube
+# GoYoutube-dl
 
 Simple web server application to kick off youtube-dl. I created this app since there were no low profile, web facing application to run youtube dl
 
